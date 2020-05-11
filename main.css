@@ -1,3 +1,46 @@
-section {
+body {
+    position: relative;
+}
+
+.center {
     text-align: center;
 }
+
+#repo {
+    box-shadow: 0px 0px 13px -1px grey;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+div {
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+a {
+    text-decoration: none;
+}
+
+h3 {
+    font-size: 25px;
+    color: rgb(0,164,239);
+}
+
+h3:hover {
+    color: rgb(2, 146, 212)
+}
+
+p {
+    color: darkslategrey;
+}
+
+
+
+footer {
+    text-align:  center;
+    background-attachment: scroll;
+    background-position: 0% 0%;
+    position: fixed;
+    bottom: 0px;
+}
+
