@@ -6,13 +6,13 @@
 
 **index.html** {
 
-​	Index replacement file with "Under construction" message and links to repos.
+Index replacement file with "Under construction" message and links to repos.
 
 } *css - main.css*
 
 **site.html** {
 
-​	This will be future index file for now its WIP
+This will be future index file for now its WIP
 
 } *css - main.css*
 
@@ -22,6 +22,12 @@
 
 **flaviicon.png** {
 
-​	Favicon for index.html/site.html
+Favicon for index.html/site.html
 
 }
+
+
+
+### Design Choices
+
+*I didnt sort images/html/css cuz I found a few problems with Github Pages.*
